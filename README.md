@@ -11,7 +11,7 @@ This is a mindfulness-based app that takes kids ages 8-12 on an interactive jour
   - [Usage](#usage)
 
 <p align="center">
-  <a href="https://ibb.co/VQ6MK02"><img src="https://i.ibb.co/qW6mZLk/Healthier-Mind-img.png" alt="Healthier-Mind-img" border="0"></a>
+<img src="https://github.com/Nafisa-Huda/HealthierMindApp/blob/main/ezgif.com-gif-maker%20(5).gif" alt="Healthier Mind Application">
 </p>
 
 ## How It's Made:
